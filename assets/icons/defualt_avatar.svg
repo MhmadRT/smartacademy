@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284.207" height="284.207" viewBox="0 0 284.207 284.207">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="0" width="284.207" height="284.207" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="19" result="blur"/>
+      <feFlood flood-color="#f84b63" flood-opacity="0.329"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-54.618 -527.142)">
+    <g transform="matrix(1, 0, 0, 1, 54.62, 527.14)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="170.207" height="170.207" rx="85.103" transform="translate(50 50)" fill="#f84b63"/>
+    </g>
+    <g id="Group_2" data-name="Group 2">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M209.156,653.019c-1.6,5.057.007,10.072,3.584,11.2s7.772-2.054,9.369-7.111-.007-10.072-3.584-11.2S210.754,647.962,209.156,653.019Z" fill="#013d55"/>
+        <path id="Path_2" data-name="Path 2" d="M171,686.2a1.819,1.819,0,0,1-.551-.085c-8.7-2.683-16.463-5.917-15.943-15.868.335-6.366,4.563-8.757,9.461-11.526a51.713,51.713,0,0,0,11.4-8.088,1.876,1.876,0,0,1,2.6,2.7,55.651,55.651,0,0,1-12.156,8.65c-5.085,2.876-7.343,4.321-7.561,8.457-.349,6.682,4.012,9.223,13.3,12.09A1.876,1.876,0,0,1,171,686.2Z" fill="#013d55"/>
+        <path id="Path_3" data-name="Path 3" d="M177.048,712.63c-8.144,0-16.013-2.905-23.72-8.713a1.874,1.874,0,0,1,2.255-2.994c14.19,10.694,28.428,10.65,44.8-.146a1.875,1.875,0,0,1,2.066,3.13C193.625,709.722,185.2,712.63,177.048,712.63Z" fill="#013d55"/>
+        <path id="Path_4" data-name="Path 4" d="M212.588,618.791c-4.866,6.614,1.278,10.055,15.391,17.567,10.5,5.592,18.676,9.09,20.723,5.946s-4.379-10.955-14.351-17.448S216.925,612.894,212.588,618.791Z" fill="#013d55"/>
+        <path id="Path_5" data-name="Path 5" d="M185.422,609.114c-.1,8.21-7.075,7.259-22.866,4.759-11.754-1.861-20.384-3.987-20.125-7.73s10.092-6.11,21.964-5.29S185.51,601.794,185.422,609.114Z" fill="#013d55"/>
+        <path id="Path_6" data-name="Path 6" d="M154.018,630.673c-1.6,5.057.007,10.073,3.584,11.2s7.772-2.054,9.369-7.111-.007-10.072-3.584-11.2S155.615,625.616,154.018,630.673Z" fill="#013d55"/>
+      </g>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="20" cy="20" r="20" transform="translate(217.585 670.788)" fill="#ff9498" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
